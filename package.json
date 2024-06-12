@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Kinenystuen/joker#readme",
   "devDependencies": {
+    "eslint": "^9.4.0",
     "prettier": "^3.3.2"
   },
   "dependencies": {
